@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976350826944",
+    "project_id": "aulainteligente-iot",
+    "storage_bucket": "aulainteligente-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976350826944:android:bb3ff93efe48e6ff293825",
+        "android_client_info": {
+          "package_name": "cl.inacap.aulaiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBsB6ckKvGsS54WvHZcYXn0_1lqabKJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976350826944:android:03044f96b84c6dad293825",
+        "android_client_info": {
+          "package_name": "com.example.loginfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBsB6ckKvGsS54WvHZcYXn0_1lqabKJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
